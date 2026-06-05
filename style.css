@@ -243,4 +243,6 @@ img { max-width: 100%; display: block; }
   .kpi-row { grid-template-columns: 1fr 1fr; }
   .navbar { padding: .8rem 1.2rem; }
   .nav-right { gap: 1rem; }
+/* 2 link cards — 1 hàng ngang */
+.links-grid { grid-template-columns: 1fr 1fr !important; }
 }
